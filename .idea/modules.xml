@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AiDeveloper/AiDeveloper.iml" filepath="$PROJECT_DIR$/AiDeveloper/AiDeveloper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AiFramework_src/AiFramework_src.iml" filepath="$PROJECT_DIR$/AiFramework_src/AiFramework_src.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/项目2相关资料.iml" filepath="$PROJECT_DIR$/.idea/项目2相关资料.iml" />
+    </modules>
+  </component>
+</project>

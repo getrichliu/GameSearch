@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jagoclient">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jagoclient.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

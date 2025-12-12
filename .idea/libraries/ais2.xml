@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ais2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/oucLeague/lib/ais/g05.jar!/" />
+      <root url="jar://$PROJECT_DIR$/oucLeague/lib/ais/g04.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

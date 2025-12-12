@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ais">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AiFramework_src/lib/ais/g05.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AiFramework_src/lib/ais/g04.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

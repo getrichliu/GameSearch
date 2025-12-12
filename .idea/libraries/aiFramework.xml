@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="aiFramework">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AiFramework_src/out/artifacts/aiFramework/aiFramework.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

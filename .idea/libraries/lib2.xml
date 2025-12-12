@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/oucLeague/lib/aiFramework.jar!/" />
+      <root url="jar://$PROJECT_DIR$/oucLeague/lib/jagoclient.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

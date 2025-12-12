@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="AiDeveloper_jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AiDeveloper/out/artifacts/AiDeveloper_jar/aiFramework.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AiDeveloper/out/artifacts/AiDeveloper_jar/jagoclient.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AiDeveloper/out/artifacts/AiDeveloper_jar/g05.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AiDeveloper/out/artifacts/AiDeveloper_jar/g04.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AiDeveloper/out/artifacts/AiDeveloper_jar/AiDeveloper.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
